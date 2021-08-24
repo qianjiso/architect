@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T04:45:26.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="fB3-R9qqps4-8XRYSl_-" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T04:57:17.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Jt7uXsxZ3RTSnWlCfU0E" version="14.9.0" type="github">
   <diagram id="imjtD3497KuN3ULHMsH7" name="Page-1">
     <mxGraphModel dx="2122" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,21 +221,21 @@
           <mxGeometry x="765.5" y="513" width="243" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-48" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;OBS&lt;/b&gt;&lt;/font&gt;&lt;br&gt;(多AZ，500G，私有）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1058" y="347.5" width="150" height="50" as="geometry" />
+          <mxGeometry x="1058" y="311" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-49" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;分布式消息RabbitMQ&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;(3.7.17 集群 4C8G）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1058" y="420.5" width="150" height="50" as="geometry" />
+          <mxGeometry x="1058" y="374.5" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-50" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;云日志中心LTS&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1058" y="490.5" width="150" height="50" as="geometry" />
+          <mxGeometry x="1058" y="435" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-66" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;云搜索 CSS&amp;nbsp; &lt;/b&gt;4C 8G 100G&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=5;" vertex="1" parent="1">
-          <mxGeometry x="766.5" y="370" width="241" height="18.5" as="geometry" />
+        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-66" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;云搜索 CSS ES&amp;nbsp;&amp;nbsp;&lt;/b&gt;4C 8G 100G&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="766.5" y="370" width="253.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-67" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;云搜索 CSS&amp;nbsp; &lt;/b&gt;4C 8G 100G&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=5;" vertex="1" parent="1">
+        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-67" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;云搜索 CSS ES&amp;nbsp;&amp;nbsp;&lt;/b&gt;4C 8G 100G&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="765.5" y="459" width="241" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-68" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;云搜索 CSS&amp;nbsp; &lt;/b&gt;4C 8G 100G&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=5;" vertex="1" parent="1">
+        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-68" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;云搜索 CSS&amp;nbsp; ES&amp;nbsp;&lt;/b&gt;4C 8G 100G&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="765.5" y="538" width="241" height="18.5" as="geometry" />
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-92" value="云中间件服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=0.5;align=center;fillColor=#d5e8d4;fontSize=10;" vertex="1" parent="1">
@@ -254,6 +254,12 @@
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-96" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;容器镜像仓库&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;SWR&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
           <mxGeometry x="556" y="701" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-102" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;APM应用性能管理&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1058" y="494" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-103" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;NAS存储 500G&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="559" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
