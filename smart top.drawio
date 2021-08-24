@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T07:14:28.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="WYG12h1XNkC8-ATpu3g9" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T07:16:27.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="mF3MyHIbjcHGILaB3nPt" version="14.9.0" type="github">
   <diagram id="imjtD3497KuN3ULHMsH7" name="Page-1">
     <mxGraphModel dx="2122" dy="941" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,6 +265,9 @@
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-103" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;NAS存储 500G&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="1059" y="559" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fNz3XJGPYnAOZMUwdegw-3" value="NAT网关？&lt;br&gt;生产环境大概的规划，新的集群包含生产和非生产&lt;br&gt;真正的开发环境怎么弄" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1317" y="275" width="175" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
