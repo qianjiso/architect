@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T10:37:56.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="9FwXu54MWRqtz7-MHwHt" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-17T10:38:24.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="TimvR3xQOPwc3q2fwr7i" version="15.2.9" type="github" pages="2">
   <diagram id="imjtD3497KuN3ULHMsH7" name="Page-1">
-    <mxGraphModel dx="1730" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2300" dy="890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,9 +154,6 @@
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-57" value="&lt;font style=&quot;font-size: 12px&quot;&gt;VPN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeWidth=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="31.5" y="489" width="48.5" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-85" value="&lt;font style=&quot;font-size: 12px&quot;&gt;NAT GW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeWidth=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="984.25" y="164" width="59.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=5;" parent="1" source="NmiQ4jP7cXwFQjp-WQcI-86" target="NmiQ4jP7cXwFQjp-WQcI-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
