@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T09:26:49.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="HlaBQzOzPDE3pv_HZDBt" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T09:28:02.280Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="kSXRAntg9QyuV3xseGFe" version="15.3.7" type="github">
   <diagram id="VqKAKFx7uqcNRF2K8Cb3" name="Page-1">
     <mxGraphModel dx="1074" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -110,8 +110,8 @@
         <mxCell id="76WRqrTsEyU47UKnnG5--63" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="523.5" y="-691.5" width="131" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="76WRqrTsEyU47UKnnG5--84" value="服务注册中心集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="527" y="-705.5" width="106" height="18" as="geometry" />
+        <mxCell id="76WRqrTsEyU47UKnnG5--84" value="注册中心/配置中心集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="524" y="-705.5" width="133" height="18" as="geometry" />
         </mxCell>
         <mxCell id="76WRqrTsEyU47UKnnG5--88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeWidth=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="76WRqrTsEyU47UKnnG5--63" edge="1">
           <mxGeometry relative="1" as="geometry">
