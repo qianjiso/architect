@@ -1,6 +1,6 @@
-<mxfile modified="2021-10-11T09:22:32.338Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="NZISilQWdgNq_sfjfcGR" version="15.3.7" type="github">
+<mxfile modified="2021-10-11T09:24:56.887Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="5kBTU3Hc7wB3AdikCq_o" version="15.3.7" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="1592" dy="1533" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="1389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -626,6 +626,27 @@
         </mxCell>
         <mxCell id="-fJ7woOF0RyUPVpDQXYN-1" value="领域应用系统" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1013" y="-664" width="110.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-fJ7woOF0RyUPVpDQXYN-2" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470.5" y="-318" as="sourcePoint" />
+            <mxPoint x="470.5" y="-271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fJ7woOF0RyUPVpDQXYN-3" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691" y="-319" as="sourcePoint" />
+            <mxPoint x="691" y="-272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fJ7woOF0RyUPVpDQXYN-5" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="886.5" y="-319" as="sourcePoint" />
+            <mxPoint x="886.5" y="-272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-fJ7woOF0RyUPVpDQXYN-6" value="中台共享能力使用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="-308" width="141" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
