@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-11T09:24:56.887Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="5kBTU3Hc7wB3AdikCq_o" version="15.3.7" type="github">
+<mxfile modified="2021-10-11T09:25:09.962Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="O47bg84NXK-4qkk0eP_j" version="15.3.7" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="854" dy="1389" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
           <mxGeometry x="341.5" y="-772" width="68" height="50" as="geometry" />
         </mxCell>
         <mxCell id="82qjtk64_86ijffzwTjk-115" value="中台共享能力中心" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1002.5" y="-286" width="110.5" height="30" as="geometry" />
+          <mxGeometry x="1003" y="-290" width="110.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="icpBB4IUuHQgVkQlSgS_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="535" y="-624.5" width="232" height="291.5" as="geometry" />
