@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T09:09:16.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="LZ8CQelnOlQe7fW-TmNm" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T01:28:56.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="JJ8peZ4wYLGv_tRXUvOa" version="15.5.2" type="github">
   <diagram id="hs6mLLeURSB0dvGaTy_q" name="Page-1">
-    <mxGraphModel dx="2407" dy="1305" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,9 +279,6 @@
             <mxPoint x="728.5" y="975" as="sourcePoint" />
             <mxPoint x="806.25" y="995" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DSfeMCaSi8syM3B5AKMl-114" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/feather-2/24/gitlab-128.png;fontSize=11;strokeColor=#330000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="500" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="DSfeMCaSi8syM3B5AKMl-119" value="代码仓库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="796" y="1001.4" width="60" height="30" as="geometry" />
