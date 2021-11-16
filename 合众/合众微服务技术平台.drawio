@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T02:10:13.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-xZ9lA9CMHjHRllLHNmq" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T02:19:05.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="781p2Ri7vMcICZHA2v89" version="15.5.9" type="github">
   <diagram id="hs6mLLeURSB0dvGaTy_q" name="Page-1">
-    <mxGraphModel dx="1142" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1116" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,7 +262,7 @@
         <mxCell id="DSfeMCaSi8syM3B5AKMl-98" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;" parent="DSfeMCaSi8syM3B5AKMl-110" vertex="1">
           <mxGeometry width="290" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="DSfeMCaSi8syM3B5AKMl-106" value="&lt;p style=&quot;line-height: 0.9&quot;&gt;&lt;/p&gt;&lt;pre style=&quot;font-size: 11px&quot;&gt;&lt;h2&gt;平台公共层&lt;/h2&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1.API统一接入&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;2.配置中心，注册中心&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;3.统一认证中心&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;4.微服务治理&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;5.数据交互中心&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 11px&quot;&gt;..&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=6;spacingTop=-18;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=top;" parent="DSfeMCaSi8syM3B5AKMl-110" vertex="1">
+        <mxCell id="DSfeMCaSi8syM3B5AKMl-106" value="&lt;p style=&quot;line-height: 0.9&quot;&gt;&lt;/p&gt;&lt;pre style=&quot;font-size: 11px&quot;&gt;&lt;h2&gt;平台公共层&lt;/h2&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1.API统一接入&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;2.配置中心，注册中心&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;3.统一认证中心&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;4.微服务治理&lt;/font&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 11px&quot;&gt;..&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=6;spacingTop=-18;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=top;" parent="DSfeMCaSi8syM3B5AKMl-110" vertex="1">
           <mxGeometry x="11" y="5.785000000000004" width="259" height="107.965" as="geometry" />
         </mxCell>
         <mxCell id="DSfeMCaSi8syM3B5AKMl-117" value="push" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;curved=1;" parent="1" target="DSfeMCaSi8syM3B5AKMl-124" edge="1">
