@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T10:42:33.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="TG2LgWXrHVrYyTHrgUyS" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-08T10:46:20.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Z_zSJoRkUCLV3LjpuC6M" version="16.6.4" type="github" pages="2">
   <diagram id="imjtD3497KuN3ULHMsH7" name="Page-1">
     <mxGraphModel dx="2293" dy="734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,14 +90,14 @@
         <mxCell id="fNz3XJGPYnAOZMUwdegw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NmiQ4jP7cXwFQjp-WQcI-53" target="NmiQ4jP7cXwFQjp-WQcI-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-53" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeWidth=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-53" value="WAF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeWidth=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="31" y="402.5" width="50" height="21" as="geometry" />
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=5;" parent="1" source="NmiQ4jP7cXwFQjp-WQcI-55" target="NmiQ4jP7cXwFQjp-WQcI-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-55" value="WAF" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeWidth=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="113.5" y="402.5" width="50" height="21" as="geometry" />
+        <mxCell id="NmiQ4jP7cXwFQjp-WQcI-55" value="&lt;span style=&quot;font-size: 10px&quot;&gt;弹性IP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeWidth=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="108" y="402.5" width="53" height="21" as="geometry" />
         </mxCell>
         <mxCell id="NmiQ4jP7cXwFQjp-WQcI-56" value="Cloud FW" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeWidth=1;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="104" y="353.5" width="59.5" height="21" as="geometry" />
