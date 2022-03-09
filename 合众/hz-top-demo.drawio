@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T03:11:48.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="y3uFG5c3IB74Erp5O2f2" version="16.6.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-09T03:18:31.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="gLnpHG2tIgJwNed4pT3s" version="16.6.7" type="github" pages="2">
   <diagram id="imjtD3497KuN3ULHMsH7" name="Page-1">
-    <mxGraphModel dx="2035" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2539" dy="857" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,8 +314,11 @@
         <mxCell id="tt8hBVJd7n6vz7DnR5gW-27" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Application 3&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;i style=&quot;color: rgb(37 , 43 , 58) ; font-size: 12px&quot;&gt;s6.2xlarge.4&lt;br&gt;16C32G&amp;nbsp; 200G&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="615.5" y="212" width="93" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="tt8hBVJd7n6vz7DnR5gW-28" value="https://sales-api-t.hozonauto.com&lt;br&gt;https://sales-auth-t.hozonauto.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;align=center;" vertex="1" parent="1">
+        <mxCell id="tt8hBVJd7n6vz7DnR5gW-28" value="https://sales-api-t.hozonauto.com&lt;br&gt;https://sales-auth-t.hozonauto.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#d6b656;strokeWidth=1;fillColor=#CCFFCC;align=center;" vertex="1" parent="1">
           <mxGeometry x="84" y="198" width="189" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="tt8hBVJd7n6vz7DnR5gW-32" value="https://sales-msp-t.hozonauto.com&lt;br&gt;https://sales-eai-t.hozonauto.com&lt;br&gt;https://sales-job-t.hozonauto.com&lt;br&gt;mysql://*.rds.aliyuncs.com:3306&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;strokeColor=#d6b656;strokeWidth=1;fillColor=#FFCCCC;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="566" width="189" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
